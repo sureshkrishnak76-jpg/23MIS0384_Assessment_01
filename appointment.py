@@ -1,2 +1,5 @@
-print("Hospital Appointments Booking System")
+print("Hospital Appointment Booking System")
+
 print("Patient Registration Module")
+
+print("Login Module")
